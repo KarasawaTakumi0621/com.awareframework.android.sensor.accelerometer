@@ -8,7 +8,6 @@ apply plugin: 'com.github.dcendents.android-maven'
 
 dependencies {
      api 'com.github.tetujin:com.awareframework.android.core:-SNAPSHOT'
-    // api project(':core')
 
     // Gson
     implementation "com.google.code.gson:gson:$gson"
